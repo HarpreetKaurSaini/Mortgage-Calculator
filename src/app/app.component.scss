@@ -1,0 +1,29 @@
+#calculator{
+    form{
+        display:flex;
+        margin: 50px 0px;
+        .form-group {
+            margin-bottom: 0rem;
+            .col-md-6{
+                float: left;
+                padding: 0px;
+                
+            }
+            .form-control{
+                margin: 8px 0px;
+                width:95%;
+            }
+        }
+        button{
+            margin:20px 0px;
+        }
+        
+    }
+    table{
+        caption{
+            caption-side: top;
+        }
+
+    }
+    
+}
